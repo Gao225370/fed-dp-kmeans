@@ -1,0 +1,2 @@
+central_iteration,Train population | number of devices,Train population | number of data points,Central DP | l2 norm bound,Central DP | fraction of clipped norms,Central DP | norm before clipping,Train population | total weight,Central DP | DP noise std. dev. on summed stats,Central DP | signal-to-DP-noise ratio on summed stats,Number of parameters
+0,730,4.931507,5.0,0.057534,2.461114,1.0,21.123394,inf,147456

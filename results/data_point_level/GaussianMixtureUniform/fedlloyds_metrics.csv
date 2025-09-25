@@ -1,0 +1,2 @@
+central_iteration,Train population | number of devices,Train population | number of data points,Train population | kmeans-cost,Train population | kmeans-accuracy,Train population | total weight,Mechanism 1: DP noise std. dev.,Mechanism 1: signal-to-DP-noise ratio,Mechanism 2: Laplace DP noise scale,Number of parameters,Val population | number of devices,Val population | number of data points,Val population | kmeans-cost,Val population | kmeans-accuracy
+0,100,1000.0,49.97963,0.98375,1.0,88.631439,64.903821,1.999992,1010,100,1000.0,50.019814,0.98406
