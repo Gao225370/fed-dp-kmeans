@@ -1,2 +1,0 @@
-central_iteration,Train population | number of devices,Train population | number of data points,Mechanism 1: l2 norm bound,Mechanism 1: fraction of clipped norms,Mechanism 1: norm before clipping,Mechanism 2: l1 norm bound,Mechanism 2: fraction of clipped norms,Mechanism 2: norm before clipping,Train population | total weight,Mechanism 1: DP noise std. dev.,Mechanism 1: signal-to-DP-noise ratio,Mechanism 2: Laplace DP noise scale,Number of parameters
-0,730,4.931507,1.8,0.253425,1.469348,6.0,0.047945,2.754795,1.0,7.604422,0.560962,30.0,3850
